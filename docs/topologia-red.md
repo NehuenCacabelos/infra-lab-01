@@ -27,7 +27,7 @@ En la configuración actual, el nodo **Blue-Sky** centraliza la identidad y la r
 
 
 ## 📸 Diagrama de red
-![Topologia de redl](../assets/capturas/Diagrama-de-red.png)
+![Topologia de red](../assets/screenshots/Diagrama-de-red.png)
 
 ---
 **Última actualización:** 12 de enero de 2026
